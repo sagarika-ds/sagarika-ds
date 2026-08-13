@@ -16,12 +16,12 @@
 
   <rect x="406" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
   <text x="451" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">GENAI / RAG</text>
-  <rect x="406" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <rect x="606" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
   <text x="451" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">Problem Solver</text>
-  <rect x="406" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <rect x="806" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
   <text x="451" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">Cloud</text>
 
-  <rect x="504" y="172" width="130" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <rect x="1004" y="172" width="130" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
   <text x="569" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">Operational</text>
   
 </svg>

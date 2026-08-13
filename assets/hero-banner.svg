@@ -1,1 +1,19 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="220" fill="#0A0A0F"/>
+  <line x1="0" y1="219" x2="900" y2="219" stroke="#1E1E2A" stroke-width="1"/>
 
+  <text x="40" y="60" font-family="Consolas, monospace" font-size="12" letter-spacing="2" fill="#00D9FF">SYSTEM STATUS: ONLINE</text>
+
+  <text x="40" y="115" font-family="Arial, sans-serif" font-size="46" font-weight="700" letter-spacing="2" fill="#F5F5F7">SAGARIKA D S</text>
+
+  <text x="40" y="150" font-family="Arial, sans-serif" font-size="16" fill="#8B8B96">Systems that think. Systems that move.</text>
+
+  <rect x="40" y="172" width="118" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="99" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">AI ENGINEER</text>
+
+  <rect x="168" y="172" width="118" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="227" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">FULL STACK</text>
+
+  <rect x="296" y="172" width="110" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="351" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">OPERATIONAL</text>
+</svg>

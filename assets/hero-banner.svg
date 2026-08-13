@@ -8,15 +8,17 @@
 
   <text x="40" y="150" font-family="Arial, sans-serif" font-size="16" fill="#8B8B96">Systems that think. Systems that move.</text>
 
-  <rect x="40" y="172" width="118" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="99" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">AI ENGINEER</text>
+  <rect x="40" y="172" width="200" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="140" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">AI &amp; DATA SCIENCE ENGINEER</text>
 
-  <rect x="168" y="172" width="118" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="227" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">FULL STACK</text>
-**Focus areas**
+  <rect x="248" y="172" width="150" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="323" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">FULL STACK DEVELOPER</text>
 
-`AI & Data Science Engineer` `Full Stack Developer` `GenAI / RAG` `Problem Solver`
-`ML/AI Enthusiast` `Backend Engineer` `Data Engineer` `Developer` `Cloud`
-  <rect x="296" y="172" width="110" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="351" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">OPERATIONAL</text>
+  <rect x="406" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="451" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">GENAI / RAG</text>
+
+  <rect x="504" y="172" width="130" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="569" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">PROBLEM SOLVER</text>
+  <rect x="504" y="172" width="130" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="569" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">Cloud</text>
 </svg>

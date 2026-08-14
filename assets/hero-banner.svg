@@ -1,3 +1,4 @@
+</svg>
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <rect width="900" height="220" fill="#0A0A0F"/>
   <line x1="0" y1="219" x2="900" y2="219" stroke="#1E1E2A" stroke-width="1"/>
@@ -8,18 +9,18 @@
 
   <text x="40" y="150" font-family="Arial, sans-serif" font-size="16" fill="#8B8B96">Systems that think. Systems that move.</text>
 
-  <rect x="40" y="172" width="200" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="140" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">AI &amp; DATA SCIENCE ENGINEER</text>
+  <rect x="40" y="172" width="248" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="164" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">AI &amp; DATA SCIENCE ENGINEER</text>
 
-  <rect x="248" y="172" width="150" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="323" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">FULL STACK DEVELOPER</text>
+  <rect x="296" y="172" width="200" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="396" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">FULL STACK DEVELOPER</text>
 
-  <rect x="406" y="172" width="90" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="451" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">GENAI / RAG</text>
+  <rect x="504" y="172" width="120" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="564" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">GENAI / RAG</text>
 
-  <rect x="504" y="172" width="130" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="569" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#4ADE80" text-anchor="middle">PROBLEM SOLVER</text>
+  <rect x="632" y="172" width="144" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="704" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">PROBLEM SOLVER</text>
 
-  <rect x="642" y="172" width="80" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
-  <text x="682" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#00D9FF" text-anchor="middle">CLOUD</text>
+  <rect x="784" y="172" width="72" height="26" rx="4" fill="none" stroke="#1E1E2A"/>
+  <text x="820" y="189" font-family="Consolas, monospace" font-size="11" letter-spacing="1" fill="#7B5FFF" text-anchor="middle">CLOUD</text>
 </svg>

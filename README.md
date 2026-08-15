@@ -8,7 +8,7 @@
 
 <pre>
 NAME        : Sagarika D S
-FIELD       : AI & Data Science
+FIELD       : Artificial Intelligence & Data Science
 UNIVERSITY  : REVA University, Bengaluru
 GRADUATION  : 2027
 CGPA        : 9.47

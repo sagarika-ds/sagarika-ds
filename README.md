@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## NEURAL CORE
+
+The systems I build around — where models, retrieval, and reasoning connect.
+
+<div align="center">
+  <img src="assets/neural-core.svg" alt="Neural core diagram — Machine Learning, RAG, NLP, Generative AI, Agents, Predictive Analytics" width="100%" />
+</div>
+
+<br/>

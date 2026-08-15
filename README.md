@@ -1,19 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/hero-banner.svg" alt="Sagarika D S — AI & Data Science Engineer, Full Stack Developer" width="100%" />
+</div>
 
-<!--
-**sagarika-ds/sagarika-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## IDENTITY CARD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NAME : Sagarika D S
+FIELD : AI & Data Science
+UNIVERSITY : REVA University, Bengaluru
+GRADUATION : 2027
+CGPA : 9.47
+**Focus areas**
+
+`AI & Data Science Engineer` `Full Stack Developer` `GenAI / RAG` `Problem Solver`
+`ML/AI Enthusiast` `Backend Engineer` `Data Engineer` `Developer` `Cloud`
+
+<br/>
+
 ## NEURAL CORE
 
 The systems I build around — where models, retrieval, and reasoning connect.

@@ -1,1 +1,34 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" fill="#0A0A0F"/>
 
+  <!-- connecting lines -->
+  <line x1="450" y1="130" x2="180" y2="60" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="130" x2="180" y2="200" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="130" x2="720" y2="60" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="130" x2="720" y2="200" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="130" x2="450" y2="40" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="130" x2="450" y2="220" stroke="#1E1E2A" stroke-width="1.5"/>
+
+  <!-- center node -->
+  <circle cx="450" cy="130" r="26" fill="#0A0A0F" stroke="#7B5FFF" stroke-width="2"/>
+  <text x="450" y="134" font-family="Consolas, monospace" font-size="10" fill="#7B5FFF" text-anchor="middle">CORE</text>
+
+  <!-- outer nodes -->
+  <circle cx="180" cy="60" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="180" y="30" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Machine Learning</text>
+
+  <circle cx="180" cy="200" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="180" y="238" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">RAG</text>
+
+  <circle cx="720" cy="60" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="720" y="30" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">NLP</text>
+
+  <circle cx="720" cy="200" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="720" y="238" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Generative AI</text>
+
+  <circle cx="450" cy="40" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="450" y="14" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Agents</text>
+
+  <circle cx="450" cy="220" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="450" y="250" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Predictive Analytics</text>
+</svg>

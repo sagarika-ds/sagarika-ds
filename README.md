@@ -27,7 +27,7 @@ The systems I build around — where models, retrieval, and reasoning connect.
 </div>
 
 <br/>
-## TECHNOLOGY MATRIX
+TECHNOLOGY MATRIX
 
 <table>
 <tr><td><b>Languages</b></td><td>Java • Python • C • JavaScript • SQL</td></tr>

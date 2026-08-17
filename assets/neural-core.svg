@@ -1,48 +1,50 @@
-<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="260" fill="#0A0A0F"/>
+<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="480" fill="#0A0A0F"/>
 
-  <!-- rotating orbital ring for depth -->
   <g>
-    <ellipse cx="450" cy="130" rx="110" ry="38" fill="none" stroke="#7B5FFF" stroke-width="1" opacity="0.35">
-      <animateTransform attributeName="transform" type="rotate" from="0 450 130" to="360 450 130" dur="18s" repeatCount="indefinite"/>
+    <ellipse cx="450" cy="240" rx="200" ry="200" fill="none" stroke="#7B5FFF" stroke-width="0.6" opacity="0.25">
+      <animateTransform attributeName="transform" type="rotate" from="0 450 240" to="360 450 240" dur="24s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="450" cy="130" rx="150" ry="55" fill="none" stroke="#00D9FF" stroke-width="0.75" opacity="0.2">
-      <animateTransform attributeName="transform" type="rotate" from="360 450 130" to="0 450 130" dur="26s" repeatCount="indefinite"/>
+    <ellipse cx="450" cy="240" rx="250" ry="140" fill="none" stroke="#00D9FF" stroke-width="0.5" opacity="0.18">
+      <animateTransform attributeName="transform" type="rotate" from="360 450 240" to="0 450 240" dur="32s" repeatCount="indefinite"/>
     </ellipse>
   </g>
 
-  <!-- connecting lines -->
-  <line x1="450" y1="130" x2="180" y2="60" stroke="#1E1E2A" stroke-width="1.5"/>
-  <line x1="450" y1="130" x2="180" y2="200" stroke="#1E1E2A" stroke-width="1.5"/>
-  <line x1="450" y1="130" x2="720" y2="60" stroke="#1E1E2A" stroke-width="1.5"/>
-  <line x1="450" y1="130" x2="720" y2="200" stroke="#1E1E2A" stroke-width="1.5"/>
-  <line x1="450" y1="130" x2="450" y2="40" stroke="#1E1E2A" stroke-width="1.5"/>
-  <line x1="450" y1="130" x2="450" y2="220" stroke="#1E1E2A" stroke-width="1.5"/>
+  <line x1="450" y1="240" x2="200" y2="120" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="200" y2="360" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="700" y2="120" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="700" y2="360" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="450" y2="70" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="450" y2="410" stroke="#1E1E2A" stroke-width="1"/>
 
-  <!-- center node with pulse -->
-  <circle cx="450" cy="130" r="26" fill="#0A0A0F" stroke="#7B5FFF" stroke-width="2"/>
-  <circle cx="450" cy="130" r="26" fill="none" stroke="#7B5FFF" stroke-width="1" opacity="0.6">
-    <animate attributeName="r" values="26;36;26" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0;0.6" dur="3s" repeatCount="indefinite"/>
+  <circle cx="450" cy="240" r="46" fill="#0A0A0F" stroke="#7B5FFF" stroke-width="2"/>
+  <circle cx="450" cy="240" r="46" fill="none" stroke="#7B5FFF" stroke-width="1" opacity="0.5">
+    <animate attributeName="r" values="46;60;46" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="450" y="134" font-family="Consolas, monospace" font-size="10" fill="#7B5FFF" text-anchor="middle">CORE</text>
+  <text x="450" y="245" font-family="Consolas, monospace" font-size="13" fill="#7B5FFF" text-anchor="middle">CORE</text>
 
-  <!-- outer nodes -->
-  <circle cx="180" cy="60" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="180" y="30" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Machine Learning</text>
+  <circle cx="200" cy="120" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="200" y="126" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">ML</text>
+  <text x="200" y="80" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Machine Learning</text>
 
-  <circle cx="180" cy="200" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="180" y="238" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">RAG</text>
+  <circle cx="200" cy="360" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="200" y="366" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">RAG</text>
+  <text x="200" y="410" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Retrieval-Augmented Gen</text>
 
-  <circle cx="720" cy="60" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="720" y="30" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">NLP</text>
+  <circle cx="700" cy="120" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="700" y="126" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">NLP</text>
+  <text x="700" y="80" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Natural Language</text>
 
-  <circle cx="720" cy="200" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="720" y="238" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Generative AI</text>
+  <circle cx="700" cy="360" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="700" y="366" font-family="Consolas, monospace" font-size="11" fill="#F5F5F7" text-anchor="middle">GenAI</text>
+  <text x="700" y="410" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Generative AI</text>
 
-  <circle cx="450" cy="40" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="450" y="14" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Agents</text>
+  <circle cx="450" cy="70" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="450" y="76" font-family="Consolas, monospace" font-size="11" fill="#F5F5F7" text-anchor="middle">Agents</text>
+  <text x="450" y="35" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Multi-Agent Systems</text>
 
-  <circle cx="450" cy="220" r="20" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
-  <text x="450" y="250" font-family="Consolas, monospace" font-size="12" fill="#F5F5F7" text-anchor="middle">Predictive Analytics</text>
+  <circle cx="450" cy="410" r="30" fill="#0A0A0F" stroke="#00D9FF" stroke-width="1.5"/>
+  <text x="450" y="416" font-family="Consolas, monospace" font-size="10" fill="#F5F5F7" text-anchor="middle">Predict</text>
+  <text x="450" y="450" font-family="Arial, sans-serif" font-size="13" fill="#8B8B96" text-anchor="middle">Predictive Analytics</text>
 </svg>

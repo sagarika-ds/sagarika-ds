@@ -104,3 +104,23 @@ Large-scale air quality prediction pipeline built on distributed data processing
 </table>
 
 <br/>
+
+
+
+
+EXPERIMENT LAB
+
+<details>
+<summary><b>Click to view active experiments</b></summary>
+<br/>
+  
+01 → AI Agents
+02 → Advanced Spring Boot
+03 → Cloud Architecture
+04 → System Design
+05 → Generative AI
+06 → Developer Tools
+
+</details>
+
+<br/>

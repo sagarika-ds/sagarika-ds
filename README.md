@@ -39,13 +39,14 @@ TECHNOLOGY MATRIX
 </table>
 
 <br/>
-## PROJECT UNIVERSE
+
+PROJECT UNIVERSE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**PROJECT_001 — EKIDP**
+PROJECT_001 — EKIDP
 <pre>
 STATUS : OPERATIONAL
 CLASS  : AI Decision Intelligence
@@ -60,7 +61,7 @@ Predicts project success, attrition, cost overrun, and delivery delay using ML m
 </td>
 <td width="50%" valign="top">
 
-**PROJECT_002 — AI News Intelligence**
+PROJECT_002 — AI News Intelligence
 <pre>
 STATUS : ACTIVE
 CLASS  : Automated Intelligence Feed
@@ -75,7 +76,7 @@ Collects and processes live news, generating concise AI-driven summaries — tur
 <tr>
 <td width="50%" valign="top">
 
-**PROJECT_003 — Weather Forecasting**
+PROJECT_003 — Weather Forecasting
 <pre>
 STATUS : OPERATIONAL
 CLASS  : Time-Series Prediction
@@ -88,7 +89,7 @@ Multivariate forecasting system using LSTM and Transformer architectures, projec
 </td>
 <td width="50%" valign="top">
 
-**PROJECT_004 — Air Quality Prediction**
+PROJECT_004 — Air Quality Prediction
 <pre>
 STATUS : OPERATIONAL
 CLASS  : Environmental ML

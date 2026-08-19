@@ -4,21 +4,21 @@
 
 <br/>
 
-## IDENTITY CARD
+IDENTITY CARD
 
 <pre>
-NAME        : Sagarika D S
-FIELD       : Artificial Intelligence & Data Science
-UNIVERSITY  : REVA University, Bengaluru
-GRADUATION  : 2027
-CGPA        : 9.47
+NAME        : <i>Sagarika D S</i>
+FIELD       : <i>Artificial Intelligence & Data Science</i>
+UNIVERSITY  : <i>REVA University, Bengaluru</i>
+GRADUATION  : <i>2027</i>
+CGPA        : <i>9.47</i>
 </pre>
 
-**Focus areas:** AI & Data Science Engineer • Full Stack Developer • GenAI / RAG • Problem Solver • ML/AI Enthusiast • Backend Engineer • Data Engineer • Developer • Cloud
+Focus areas: AI & Data Science Engineer • Full Stack Developer • GenAI / RAG • Problem Solver • ML/AI Enthusiast • Backend Engineer • Data Engineer • Developer • Cloud
 
 <br/>
 
-## NEURAL CORE
+NEURAL CORE
 
 The systems I build around — where models, retrieval, and reasoning connect.
 

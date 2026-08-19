@@ -124,16 +124,3 @@ EXPERIMENT LAB
 </details>
 
 <br/>
-
-
-MISSION MAP
-
-<table>
-<tr><td width="100"><b>2024</b></td><td>Started at REVA University — foundations in Java, Python, DSA, and core ML concepts</td></tr>
-<tr><td><b>2025</b></td><td>Built full-stack + ML projects independently — Weather Forecasting, Air Quality Prediction, started EKIDP</td></tr>
-<tr><td><b>2026</b></td><td>Deepened into RAG, multi-agent systems, and enterprise-scale architecture — EKIDP matures into flagship project</td></tr>
-<tr><td><b>2027</b></td><td>Graduation — targeting roles in AI/ML engineering and applied GenAI systems</td></tr>
-<tr><td><b>∞</b></td><td>Continuous build — new experiments, deeper systems, bigger problems</td></tr>
-</table>
-
-<br/>

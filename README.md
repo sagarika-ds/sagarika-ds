@@ -124,3 +124,16 @@ EXPERIMENT LAB
 </details>
 
 <br/>
+
+
+ENGINEERING DNA
+
+*Self-assessed focus areas — not a benchmark, just where my time and energy go.*
+
+<table>
+<tr><td width="160"><b>Core</b></td><td>AI/ML • Backend Engineering • Full Stack Development</td></tr>
+<tr><td><b>Working knowledge</b></td><td>Data Engineering • Cloud • System Design</td></tr>
+<tr><td><b>Actively growing</b></td><td>Generative AI • Agentic Systems • Developer Tools</td></tr>
+</table>
+
+<br/>

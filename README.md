@@ -133,3 +133,18 @@ GITHUB TELEMETRY
 </div>
 
 <br/>
+## TRANSMISSION CHANNELS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B5FFF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-00D9FF?style=flat-square&logo=gmail&logoColor=white)](mailto:dssagarika012@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-1E1E2A?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarika-ds)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>Systems that think. Systems that move.</sub>
+</div>

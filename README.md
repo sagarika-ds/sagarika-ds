@@ -1,4 +1,7 @@
-<div align="center">
+<!-- 
+  If you're reading this, you found the source.
+  System: SAGARIKA.exe — status: running, always building.
+--><div align="center">
 <img src="assets/hero-banner.svg" alt="Sagarika D S" width="100%" />
 </div>
 

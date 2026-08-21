@@ -1,13 +1,13 @@
 <!-- 
   If you're reading this, you found the source.
   System: SAGARIKA.exe — status: running, always building.
---><div align="center">
+-->
+
+<div align="center">
 <img src="assets/hero-banner.svg" alt="Sagarika D S" width="100%" />
 </div>
 
-<br/>
-
-IDENTITY CARD
+## IDENTITY CARD
 
 <pre>
 NAME        : <i>Sagarika D S</i>
@@ -19,9 +19,11 @@ CGPA        : <i>9.47</i>
 
 Focus areas: AI & Data Science Engineer • Full Stack Developer • GenAI / RAG • Problem Solver • ML/AI Enthusiast • Backend Engineer • Data Engineer • Developer • Cloud
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-NEURAL CORE
+## NEURAL CORE
 
 The systems I build around — where models, retrieval, and reasoning connect.
 
@@ -29,8 +31,11 @@ The systems I build around — where models, retrieval, and reasoning connect.
 <img src="assets/neural-core.svg" alt="Neural core diagram" width="100%" />
 </div>
 
-<br/>
-TECHNOLOGY MATRIX
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
+## TECHNOLOGY MATRIX
 
 <table>
 <tr><td><b>Languages</b></td><td>Java • Python • C • JavaScript • SQL</td></tr>
@@ -41,15 +46,17 @@ TECHNOLOGY MATRIX
 <tr><td><b>Tools</b></td><td>Docker • Git • GitHub</td></tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-PROJECT UNIVERSE
+## PROJECT UNIVERSE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-PROJECT_001 — EKIDP
+**PROJECT_001 — EKIDP**
 <pre>
 STATUS : OPERATIONAL
 CLASS  : AI Decision Intelligence
@@ -64,7 +71,7 @@ Predicts project success, attrition, cost overrun, and delivery delay using ML m
 </td>
 <td width="50%" valign="top">
 
-PROJECT_002 — AI News Intelligence
+**PROJECT_002 — AI News Intelligence**
 <pre>
 STATUS : ACTIVE
 CLASS  : Automated Intelligence Feed
@@ -79,7 +86,7 @@ Collects and processes live news, generating concise AI-driven summaries — tur
 <tr>
 <td width="50%" valign="top">
 
-PROJECT_003 — Weather Forecasting
+**PROJECT_003 — Weather Forecasting**
 <pre>
 STATUS : OPERATIONAL
 CLASS  : Time-Series Prediction
@@ -92,7 +99,7 @@ Multivariate forecasting system using LSTM and Transformer architectures, projec
 </td>
 <td width="50%" valign="top">
 
-PROJECT_004 — Air Quality Prediction
+**PROJECT_004 — Air Quality Prediction**
 <pre>
 STATUS : OPERATIONAL
 CLASS  : Environmental ML
@@ -106,17 +113,15 @@ Large-scale air quality prediction pipeline built on distributed data processing
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-
-
-
-EXPERIMENT LAB
+## EXPERIMENT LAB
 
 <details>
 <summary><b>Click to view active experiments</b></summary>
 <br/>
-  
 01 → AI Agents
 02 → Advanced Spring Boot
 03 → Cloud Architecture
@@ -126,10 +131,11 @@ EXPERIMENT LAB
 
 </details>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-
-GITHUB TELEMETRY
+## GITHUB TELEMETRY
 
 <div align="center">
 
@@ -137,19 +143,19 @@ GITHUB TELEMETRY
 
 </div>
 
-<br/>
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
 
-TRANSMISSION CHANNELS
+## TRANSMISSION CHANNELS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B5FFF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7B5FFF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/PASTE-YOUR-HANDLE-HERE)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-00D9FF?style=flat-square&logo=gmail&logoColor=white)](mailto:dssagarika012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-1E1E2A?style=flat-square&logo=github&logoColor=white)](https://github.com/sagarika-ds)
 
 </div>
-
-<br/>
 
 <div align="center">
 <sub>Systems that think. Systems that move.</sub>

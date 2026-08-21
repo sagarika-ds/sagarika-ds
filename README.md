@@ -133,7 +133,7 @@ GITHUB TELEMETRY
 </div>
 
 <br/>
-## TRANSMISSION CHANNELS
+TRANSMISSION CHANNELS
 
 <div align="center">
 

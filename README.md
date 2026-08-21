@@ -125,14 +125,17 @@ EXPERIMENT LAB
 
 <br/>
 
+
 GITHUB TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sagarika-ds&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=7B5FFF&icon_color=00D9FF&text_color=8B8B96" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarika-ds&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=7B5FFF&text_color=8B8B96" width="48%" alt="Top languages" />
+
+**View live activity →** [github.com/sagarika-ds](https://github.com/sagarika-ds)
+
 </div>
 
 <br/>
+
 TRANSMISSION CHANNELS
 
 <div align="center">

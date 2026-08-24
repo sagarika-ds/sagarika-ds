@@ -7,15 +7,11 @@
 <img src="assets/hero-banner.svg" alt="Sagarika D S" width="100%" />
 </div>
 
-## IDENTITY CARD
+IDENTITY CARD
 
-<pre>
-NAME        : <i>Sagarika D S</i>
-FIELD       : <i>Artificial Intelligence & Data Science</i>
-UNIVERSITY  : <i>REVA University, Bengaluru</i>
-GRADUATION  : <i>2027</i>
-CGPA        : <i>9.47</i>
-</pre>
+<div align="center">
+<img src="assets/identity-badge.svg" width="90%" alt="Sagarika D S identity badge" />
+</div>
 
 Focus areas: AI & Data Science Engineer • Full Stack Developer • GenAI / RAG • Problem Solver • ML/AI Enthusiast • Backend Engineer • Data Engineer • Developer • Cloud
 

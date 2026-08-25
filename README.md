@@ -19,7 +19,7 @@ Focus areas: AI & Data Science Engineer • Full Stack Developer • GenAI / RAG
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-## NEURAL CORE
+NEURAL CORE
 
 The systems I build around — where models, retrieval, and reasoning connect.
 
@@ -31,17 +31,11 @@ The systems I build around — where models, retrieval, and reasoning connect.
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-## TECHNOLOGY MATRIX
+TECHNOLOGY MATRIX
 
-<table>
-<tr><td><b>Languages</b></td><td>Java • Python • C • JavaScript • SQL</td></tr>
-<tr><td><b>Frontend / Backend</b></td><td>React • Node.js • Spring Boot</td></tr>
-<tr><td><b>Databases</b></td><td>PostgreSQL • MySQL • Neo4j • ChromaDB</td></tr>
-<tr><td><b>AI / ML</b></td><td>TensorFlow • Scikit-learn • Pandas • NumPy • PySpark</td></tr>
-<tr><td><b>Data / Visualization</b></td><td>Streamlit • Power BI</td></tr>
-<tr><td><b>Tools</b></td><td>Docker • Git • GitHub</td></tr>
-</table>
-
+<div align="center">
+<img src="assets/tech-constellation.svg" width="100%" alt="Technology constellation — languages, stack, data, and AI/ML tools" />
+</div>
 
 PROJECT UNIVERSE
 

@@ -1,1 +1,14 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="140" fill="#0A0A0F"/>
 
+  <text x="40" y="30" font-family="Consolas, monospace" font-size="11" letter-spacing="2" fill="#8B8B96">ACTIVITY PULSE</text>
+
+  <polyline points="40,90 100,90 130,60 160,110 190,40 220,90 260,90 300,90 330,55 360,95 390,90 430,90 470,25 500,90 540,90 580,70 610,90 650,90 690,45 720,90 760,90 800,65 830,90 860,90"
+    fill="none" stroke="#7B5FFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <circle cx="470" cy="25" r="4" fill="#00D9FF"/>
+
+  <line x1="40" y1="112" x2="860" y2="112" stroke="#1E1E2A" stroke-width="1"/>
+  <text x="40" y="130" font-family="Consolas, monospace" font-size="9" fill="#8B8B96">RECENT</text>
+  <text x="860" y="130" font-family="Consolas, monospace" font-size="9" fill="#8B8B96" text-anchor="end">NOW</text>
+</svg>

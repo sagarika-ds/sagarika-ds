@@ -85,7 +85,7 @@ PROJECT UNIVERSE
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-## TRANSMISSION CHANNELS
+TRANSMISSION CHANNELS
 
 <div align="center">
 
@@ -97,4 +97,16 @@ PROJECT UNIVERSE
 
 <div align="center">
 <sub>Systems that think. Systems that move.</sub>
+</div>
+
+GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sagarika-ds&theme=dark&hide_border=true&background=0A0A0F&stroke=1E1E2A&ring=7B5FFF&fire=00D9FF&currStreakLabel=7B5FFF" alt="GitHub streak stats" />
+
+<br/><br/>
+
+**View live activity →** [github.com/sagarika-ds](https://github.com/sagarika-ds)
+
 </div>

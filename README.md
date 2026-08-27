@@ -107,6 +107,6 @@ GITHUB TELEMETRY
 
 <br/><br/>
 
-View live activity →** [github.com/sagarika-ds](https://github.com/sagarika-ds)
+View live activity → [github.com/sagarika-ds](https://github.com/sagarika-ds)
 
 </div>

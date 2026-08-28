@@ -1,25 +1,21 @@
 <svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
   <rect width="900" height="480" fill="#0A0A0F"/>
 
-  <g>
-    <ellipse cx="450" cy="240" rx="200" ry="200" fill="none" stroke="#7B5FFF" stroke-width="0.6" opacity="0.25">
-      <animateTransform attributeName="transform" type="rotate" from="0 450 240" to="360 450 240" dur="24s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="450" cy="240" rx="250" ry="140" fill="none" stroke="#00D9FF" stroke-width="0.5" opacity="0.18">
-      <animateTransform attributeName="transform" type="rotate" from="360 450 240" to="0 450 240" dur="32s" repeatCount="indefinite"/>
-    </ellipse>
-  </g>
+  <circle cx="450" cy="240" r="90" fill="#7B5FFF" opacity="0.06"/>
+  <circle cx="450" cy="240" r="65" fill="#7B5FFF" opacity="0.08"/>
+  <circle cx="450" cy="240" r="200" fill="none" stroke="#7B5FFF" stroke-width="0.6" opacity="0.25"/>
+  <circle cx="450" cy="240" r="245" fill="none" stroke="#00D9FF" stroke-width="0.5" opacity="0.15"/>
 
-  <line x1="450" y1="240" x2="200" y2="120" stroke="#1E1E2A" stroke-width="1"/>
-  <line x1="450" y1="240" x2="200" y2="360" stroke="#1E1E2A" stroke-width="1"/>
-  <line x1="450" y1="240" x2="700" y2="120" stroke="#1E1E2A" stroke-width="1"/>
-  <line x1="450" y1="240" x2="700" y2="360" stroke="#1E1E2A" stroke-width="1"/>
-  <line x1="450" y1="240" x2="450" y2="70" stroke="#1E1E2A" stroke-width="1"/>
-  <line x1="450" y1="240" x2="450" y2="410" stroke="#1E1E2A" stroke-width="1"/>
+  <line x1="450" y1="240" x2="200" y2="120" stroke="#00D9FF" stroke-width="2.6" opacity="0.85"/>
+  <line x1="450" y1="240" x2="200" y2="360" stroke="#00D9FF" stroke-width="1.6" opacity="0.5"/>
+  <line x1="450" y1="240" x2="700" y2="120" stroke="#00D9FF" stroke-width="1" opacity="0.3"/>
+  <line x1="450" y1="240" x2="700" y2="360" stroke="#00D9FF" stroke-width="2" opacity="0.65"/>
+  <line x1="450" y1="240" x2="450" y2="70" stroke="#00D9FF" stroke-width="1.2" opacity="0.4"/>
+  <line x1="450" y1="240" x2="450" y2="410" stroke="#00D9FF" stroke-width="2.2" opacity="0.75"/>
 
   <circle cx="450" cy="240" r="46" fill="#0A0A0F" stroke="#7B5FFF" stroke-width="2"/>
   <circle cx="450" cy="240" r="46" fill="none" stroke="#7B5FFF" stroke-width="1" opacity="0.5">
-    <animate attributeName="r" values="46;60;46" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="46;62;46" dur="3.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.5;0;0.5" dur="3.5s" repeatCount="indefinite"/>
   </circle>
   <text x="450" y="245" font-family="Consolas, monospace" font-size="13" fill="#7B5FFF" text-anchor="middle">CORE</text>

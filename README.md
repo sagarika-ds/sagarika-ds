@@ -3,9 +3,7 @@
   System: SAGARIKA.exe — status: running, always building.
 -->
 
-<div align="center">
-<img src="assets/hero-banner.svg" alt="Sagarika D S" width="100%" />
-</div>
+
 
 IDENTITY CARD
 

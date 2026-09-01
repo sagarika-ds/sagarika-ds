@@ -51,7 +51,7 @@ PROJECT UNIVERSE
 
 
 
-## EXPERIMENT LAB
+EXPERIMENT LAB
 
 <details>
 <summary><b>Click to view active experiments</b></summary>
@@ -69,7 +69,7 @@ PROJECT UNIVERSE
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-## GITHUB TELEMETRY
+<!--GITHUB TELEMETRY
 
 <div align="center">
 
@@ -80,7 +80,7 @@ PROJECT UNIVERSE
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
+-->
 TRANSMISSION CHANNELS
 
 <div align="center">

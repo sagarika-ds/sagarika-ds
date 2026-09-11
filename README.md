@@ -96,3 +96,9 @@ TRANSMISSION CHANNELS
 </div>
 
 GITHUB TELEMETRY
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sagarika-ds&theme=dark&hide_border=true&background=0A0A0F&stroke=1E1E2A&ring=7B5FFF&fire=00D9FF&currStreakLabel=7B5FFF&sideNums=F5F5F7&dates=8B8B96" alt="GitHub streak stats" />
+
+</div>

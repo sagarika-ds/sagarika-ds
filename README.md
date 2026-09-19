@@ -8,7 +8,7 @@
 <img src="assets/identity-badge.svg" width="90%" alt="Sagarika D S identity badge" />
 </div>
 
-Focus areas: Artificial Intelligence & Data Science Engineer • Full Stack  • GenAI / RAG • Problem Solver • ML/eAI • Backend Engineer • Data Engineer • Developer • Cloud
+Focus areas: Artificial Intelligence & Data Science Engineer • Full Stack  • GenAI / RAG • Problem Solver • ML/AI • Backend Engineer • Data Engineer • Developer • Cloud
 
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />

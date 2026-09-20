@@ -32,6 +32,12 @@ TECHNOLOGY MATRIX
 <div align="center">
 <img src="assets/tech-constellation.svg" width="100%" alt="Technology constellation — languages, stack, data, and AI/ML tools" />
 </div>
+</details>
+
+<div align="center">
+<img src="assets/divider.svg" width="100%" alt="" />
+</div>
+
 
 PROJECT UNIVERSE
 

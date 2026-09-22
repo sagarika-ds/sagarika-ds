@@ -56,7 +56,7 @@ PROJECT UNIVERSE
 
 
 
-
+<!--
 EXPERIMENT LAB
 
 <details>
@@ -74,7 +74,7 @@ EXPERIMENT LAB
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
+-->
 <!--GITHUB TELEMETRY
 
 <div align="center">

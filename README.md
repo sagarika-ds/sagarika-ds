@@ -14,7 +14,7 @@ Focus areas: Artificial Intelligence & Data Science Engineer • Full Stack  •
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 
-<!--NEURAL CORE
+NEURAL CORE
 
 The systems I build around — where models, retrieval, and reasoning connect.
 
@@ -25,7 +25,7 @@ The systems I build around — where models, retrieval, and reasoning connect.
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
--->
+
 
 TECHNOLOGY MATRIX
 

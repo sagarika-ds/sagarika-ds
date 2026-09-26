@@ -3,7 +3,7 @@
   System: SAGARIKA.exe — status: running, always building.
 -->
 
-Hello…
+
 <div align="center">
 <img src="assets/identity-badge.svg" width="90%" alt="Sagarika D S identity badge" />
 </div>

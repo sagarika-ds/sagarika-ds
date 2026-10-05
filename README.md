@@ -12,20 +12,16 @@ Focus areas: Artificial Intelligence & Data Science Engineer • Full Stack  •
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
+<!--
 NEURAL CORE
-
 The systems I build around — where models, retrieval, and reasoning connect.
-
 <div align="center">
 <img src="assets/neural-core.svg" alt="Neural core diagram" width="100%" />
 </div>
-
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
-
-
+-->
 TECHNOLOGY MATRIX
 
 <div align="center">

@@ -35,7 +35,7 @@ TECHNOLOGY MATRIX
 </div>
 
 
-PROJECT UNIVERSE :
+PROJECT UNIVERSE
 
 <div align="center">
 

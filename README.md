@@ -24,7 +24,7 @@ The systems I build around — where models, retrieval, and reasoning connect.
 <img src="assets/divider.svg" width="100%" alt="" />
 </div>
 -->
-TECHNOLOGY MATRIX includes
+TECHNOLOGY MATRIX
 
 <div align="center">
 <img src="assets/tech-constellation.svg" width="100%" alt="Technology constellation — languages, stack, data, and AI/ML tools" />

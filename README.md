@@ -95,7 +95,7 @@ TRANSMISSION CHANNELS
 </div>
 
 <div align="center">
-<sub>Systems that think. Systems that move.</sub>
+<sub>Systems that can think. Systems that can move.</sub>
 </div>
 
 GITHUB TELEMETRY

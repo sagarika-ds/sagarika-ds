@@ -9,7 +9,7 @@
 </div>
 
 Focus areas 
-Artificial Intelligence & Data Science Engineer • Full Stack  • GenAI • RAG • Problem Solver • ML/AI • Backend Engineer • Data Engineer • Developer • Cloud
+Artificial Intelligence & Data Science Engineer • Full Stack  • GenAI/RAG • Problem Solver • ML/AI • Backend Engineer • Data Engineer • Developer • Cloud
 
 <div align="center">
 <img src="assets/divider.svg" width="100%" alt="" />
